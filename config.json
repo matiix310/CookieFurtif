@@ -1,0 +1,18 @@
+{
+    "images": [
+        {
+            "name": "naga",
+            "url": "https://raw.githubusercontent.com/matiix310/KPlace/main/naga",
+            "x": 5,
+            "y": 183,
+            "width": 64
+        },
+        {
+            "name": "emile",
+            "url": "https://raw.githubusercontent.com/matiix310/KPlace/main/emile",
+            "x": 99,
+            "y": 184,
+            "width": 55
+        }
+    ]
+}

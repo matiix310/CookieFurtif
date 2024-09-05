@@ -2,17 +2,24 @@
     "images": [
         {
             "name": "naga",
-            "url": "https://raw.githubusercontent.com/matiix310/KPlace/main/naga",
+            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/naga",
             "x": 5,
             "y": 183,
             "width": 64
         },
         {
             "name": "emile",
-            "url": "https://raw.githubusercontent.com/matiix310/KPlace/main/emile",
+            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/emile",
             "x": 99,
             "y": 184,
             "width": 55
+        },
+        {
+            "name": "wanted",
+            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/wanted",
+            "x": 99,
+            "y": 173,
+            "width": 54
         }
     ]
 }

@@ -1,11 +1,18 @@
 {
     "images": [
         {
-            "name": "nagaxemile",
-            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/nagaxemile",
+            "name": "nagaxemilelaisse",
+            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/nagaxemilelaisse",
             "x": 0,
             "y": 0,
             "width": 255
+        },
+        {
+            "name": "wanted",
+            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/wanted",
+            "x": 99,
+            "y": 173,
+            "width": 54
         }
     ]
 }

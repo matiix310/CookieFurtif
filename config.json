@@ -20,6 +20,13 @@
             "x": 113,
             "y": 6,
             "width": 71
+        },
+        {
+            "name": "beer",
+            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/beer",
+            "x": 70,
+            "y": 198,
+            "width": 26
         }
     ]
 }

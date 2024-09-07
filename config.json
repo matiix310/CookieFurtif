@@ -1,32 +1,18 @@
 {
     "images": [
         {
-            "name": "nagaxemilelaisse",
-            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/nagaxemilelaisse",
+            "name": "nagaxliolio",
+            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/nagaxliolio",
             "x": 0,
             "y": 0,
             "width": 255
-        },
-        {
-            "name": "wanted",
-            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/wanted",
-            "x": 99,
-            "y": 173,
-            "width": 54
-        },
+        }
         {
             "name": "batman",
             "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/batman",
             "x": 113,
             "y": 6,
             "width": 71
-        },
-        {
-            "name": "beer",
-            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/beer",
-            "x": 70,
-            "y": 192,
-            "width": 26
         }
     ]
 }

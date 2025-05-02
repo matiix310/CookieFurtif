@@ -13,6 +13,13 @@
             "x": 113,
             "y": 6,
             "width": 71
-        }
+        },
+        {
+            "name": "pascontent",
+            "url": "https://raw.githubusercontent.com/matiix310/CookieFurtif/main/pascontent",
+            "x": 210,
+            "y": 0,
+            "width": 40
+        },
     ]
 }
